@@ -1,18 +1,20 @@
-### Proposal for Solo Project: Outdoor Adventures
+### Proposal for Solo Project: Holiday Greetings Prototype
 
-***First pass: more to come***
+Holiday Greetings will be a website where members post greetings in the form of text, images, and a video. Then they send email invitations to family and friends to view it. It is a membership site, therefore the landing page does login and registration. 
 
-Outdoor Adventures is a website where members post their outdoor adventure memories. Document your adventure with text, a map, and images. It is a membership site, therefore the landing page does login and registration.
+Holiday Greetings will be a group project. This solo project is a prototype to test out some of the key pieces of the final site: image upload, linking to a video storage site, and sending email from the site. 
 
-## Features
-1. P0: Registration, login, ability to create posts, which include a textarea description, a map, and optional images.
-2. P1: Image upload, enough styling to be visually appealing, useful error messages, e.g. invalid email address.
-3. P2: Set up a test harness with Selenium, member comments, downsample images to conserve file storage, ability to draw on map, e.g. draw the trail taken.
-4. P3: Allow links to videos, contour lines on the map, 
+## Features 
+1. P0: Registration & login, ability to create a greeting with text, upload an image, send email invitation.
+2. P1: Video upload, enough styling to be visually appealing, useful error messages, e.g. invalid email address.
+3. P2: Set up a test harness with Selenium, member comments, downsample images to conserve file storage.
+4. P3: TBD
 
-## New chalenges (to me, at least)
-1. Learn Google Maps API
-2. Learn how to do image upload using Python/Django.
-3. (P2) Get basic experience with Selenium for automated test generation.
-4. (P2) learn how to do drawing overlays on Google maps.
+## New challenges (to me, at least)
+1. Send email from a site.
+2. Image upload using Python/Django.
+3. Video upload.
+4. Use Selenium for automated test generation.
 
+## Link to wireframe
+https://balsamiq.cloud/sw6wk6d/pgte9a8/r2278
